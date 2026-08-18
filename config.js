@@ -1,2 +1,2 @@
-export const SUPABASE_URL = 'YOUR_SUPABASE_URL';
-export const SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY';
+export const SUPABASE_URL = 'https://qahiuofsyqdywbuhjahe.supabase.co';
+export const SUPABASE_ANON_KEY = 'sb_publishable_CAwLzfEC0SF8M1vE-anHqQ_Fbb7ZNT9';
